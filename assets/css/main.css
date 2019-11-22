@@ -2769,11 +2769,11 @@ input, select, textarea {
 			cursor: default;
 			display: inline-block;
 			font-size: 2.25em;
-			height: 2.35em;
-			line-height: 2.35em;
+			height: 7.35em;
+			line-height: 7.35em;
 			margin: 0 0 0.75em 0;
 			text-align: center;
-			width: 2.35em;
+			width: 7.35em;
 		}
 
 			#header .logo.fa-paper-plane-o:before {
