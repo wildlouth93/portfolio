@@ -3328,6 +3328,7 @@ input, select, textarea {
 	margin: auto;
 	text-align: center;
 	color: green;
+	font-size: 20px;
 }
 
 .skills li i {
