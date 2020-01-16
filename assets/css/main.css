@@ -3325,8 +3325,7 @@ input, select, textarea {
 .skills li {
 	display: flex;
 	flex-direction: column;
-	margin-top: 20px;
-	margin-bottom: auto;
+	margin: auto;
 }
 
 .skills li i {
