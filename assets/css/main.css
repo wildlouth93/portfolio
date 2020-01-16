@@ -3314,3 +3314,10 @@ input, select, textarea {
     padding: 20px;
     background: white;
 	}
+
+	.skills {
+		list-style: none;
+    height: 200px;
+    display: flex; 
+    overflow: scroll;
+}
