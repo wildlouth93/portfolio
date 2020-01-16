@@ -3317,7 +3317,7 @@ input, select, textarea {
 
 	.skills {
 		list-style: none;
-    height: 200px;
+    height: 225px;
     display: flex; 
     overflow: scroll;
 }
@@ -3326,6 +3326,8 @@ input, select, textarea {
 	display: flex;
 	flex-direction: column;
 	margin: auto;
+	text-align: center;
+	color: green;
 }
 
 .skills li i {
