@@ -3330,4 +3330,6 @@ input, select, textarea {
 .skills li i {
 	font-size: 48px; 
 	color: green;
+	padding: 10px;
+	border: 1px solid green;
 }
