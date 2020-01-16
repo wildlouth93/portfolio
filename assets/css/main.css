@@ -3324,11 +3324,13 @@ input, select, textarea {
 
 .skills li {
 	display: flex;
-  flex-direction: column;
+	flex-direction: column;
+	margin-top: 20px;
+	margin-bottom: auto;
 }
 
 .skills li i {
-	font-size: 48px; 
+	font-size: 150px; 
 	color: green;
 	padding: 10px;
 	border: 1px solid green;
