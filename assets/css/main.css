@@ -3305,3 +3305,12 @@ input, select, textarea {
 				}
 
 	}
+
+	.projects-header {
+		margin: 40px;
+    /* border-bottom: 1px solid gray; */
+    border-top: solid 1px rgba(224, 224, 224, 0.75);
+    border-bottom: solid 1px rgba(224, 224, 224, 0.75);
+    padding: 40px;
+    background: white;
+	}
